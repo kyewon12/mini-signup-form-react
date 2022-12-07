@@ -14,7 +14,7 @@ function App() {
                             className="block text-gray-700 text-sm font-bold mb-2"
                             htmlFor="id"
                         >
-                            아이디
+                            아이디a
                         </label>
                         <input
                             id="id"
